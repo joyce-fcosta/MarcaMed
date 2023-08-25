@@ -1,0 +1,5 @@
+C:\Users\joyce\Documents\PORTIFÓLIO\MarcaMed\backend\Testes\obj\Debug\net7.0\Testes.csproj.AssemblyReference.cache
+C:\Users\joyce\Documents\PORTIFÓLIO\MarcaMed\backend\Testes\obj\Debug\net7.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\Documents\PORTIFÓLIO\MarcaMed\backend\Testes\obj\Debug\net7.0\Testes.AssemblyInfoInputs.cache
+C:\Users\joyce\Documents\PORTIFÓLIO\MarcaMed\backend\Testes\obj\Debug\net7.0\Testes.AssemblyInfo.cs
+C:\Users\joyce\Documents\PORTIFÓLIO\MarcaMed\backend\Testes\obj\Debug\net7.0\Testes.csproj.CoreCompileInputs.cache
